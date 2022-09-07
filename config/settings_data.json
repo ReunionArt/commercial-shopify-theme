@@ -160,7 +160,7 @@
         "type": "dynamic-featured-product",
         "settings": {
           "product": "ou-est-bernadette",
-          "sold_out_options": "selectable",
+          "sold_out_options": "disabled",
           "select_first_available_variant": true,
           "show_dcb": true,
           "product_cart_redirect": true,
