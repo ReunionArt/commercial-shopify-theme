@@ -106,9 +106,11 @@
             "settings": {
               "meganav_trigger": "",
               "text_1": "",
+              "link_1": "",
               "position_1": "last",
               "size_1": "medium",
               "text_2": "",
+              "link_2": "",
               "position_2": "last",
               "size_2": "medium"
             }
@@ -118,9 +120,11 @@
             "settings": {
               "meganav_trigger": "",
               "text_1": "",
+              "link_1": "",
               "position_1": "last",
               "size_1": "medium",
               "text_2": "",
+              "link_2": "",
               "position_2": "first",
               "size_2": "small"
             }
@@ -133,7 +137,6 @@
         "settings": {
           "sticky_header": true,
           "full_width_header": true,
-          "logo": "shopify:\/\/shop_images\/logo-pisomaestro-full-trasparente.png",
           "logo_height": 63,
           "logo_width": 150,
           "filter_search_by": "product_type",
@@ -147,6 +150,7 @@
           "small_promo_heading": "",
           "small_promo_text": "",
           "small_promo_text_mobile": "",
+          "small_promo_link": "",
           "small_promo_icon": "none",
           "cart_icon": "icon-cart"
         }
@@ -184,12 +188,12 @@
           "1493143038057-0": {
             "type": "promotion",
             "settings": {
-              "image": "shopify:\/\/shop_images\/204_2_fresno.jpg",
-              "title": "FloorTech Fresno",
-              "text": "Terminación brillante y biselado      | \nElegancia y Calidad",
-              "color": "#4d4d4d",
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "title": "Ou est Bernadette ?",
+              "text": "Ou est Bernadette ?",
+              "color": "#fff",
               "block_link": "shopify:\/\/products\/floortech-204-fresno",
-              "button_text": "Comprar aquí",
+              "button_text": "Acheter",
               "button_style": "secondary",
               "show_overlay": false,
               "background": "#fafafa",
@@ -199,12 +203,12 @@
           "1493143038057-1": {
             "type": "promotion",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Rustic.png",
-              "title": "FloorTech Rustic",
-              "text": "Piso Flotante Rustic 8mm AC4 C32.",
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "title": "Beradette",
+              "text": "Berni",
               "color": "#ffffff",
               "block_link": "shopify:\/\/products\/floortech-6063-rustic",
-              "button_text": "Comprar aquí",
+              "button_text": "Acheter",
               "button_style": "secondary",
               "show_overlay": true,
               "background": "#000000",
@@ -214,12 +218,12 @@
           "1493143038057-2": {
             "type": "promotion",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Floortech_820_1980x1980_2.jpg",
-              "title": "FloorTech Oak Wood",
-              "text": "Modelo brillante de 3 strip, combine elegancia y tradición.",
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "title": "Bernadette ?",
+              "text": "Bernadette",
               "color": "#ffffff",
               "block_link": "shopify:\/\/products\/floortech-820-oak-wood",
-              "button_text": "Comprar aquí",
+              "button_text": "Acheter",
               "button_style": "secondary",
               "show_overlay": true,
               "background": "#000000",
@@ -229,12 +233,12 @@
           "1493143583401": {
             "type": "promotion",
             "settings": {
-              "image": "shopify:\/\/shop_images\/1961_Glossy2_Rock.jpg",
-              "title": "FloorTech Rock",
-              "text": "Al menor estilo, elige el color Rock para darle a tu hogar un espacio moderno y de calidad.",
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "title": "Beber",
+              "text": "BeBer",
               "color": "#ffffff",
               "block_link": "shopify:\/\/products\/floortech-1961-rock",
-              "button_text": "Comprar aquí",
+              "button_text": "Acheter",
               "button_style": "secondary",
               "show_overlay": true,
               "background": "#1a1919",
@@ -261,7 +265,8 @@
         "blocks": {
           "1493171899575": {
             "type": "social_accounts",
-            "settings": {}
+            "settings": {
+            }
           },
           "static-footer-0": {
             "type": "menu",
@@ -272,19 +277,19 @@
           "1498182586280": {
             "type": "menu",
             "settings": {
-              "menu": "politicas"
+              "menu": ""
             }
           },
           "1498182572847": {
             "type": "menu",
             "settings": {
-              "menu": "categorias"
+              "menu": ""
             }
           },
           "static-footer-1": {
             "type": "newsletter",
             "settings": {
-              "title": "Subscribe",
+              "title": "S'abonner",
               "text": "<p>Sigue nuestros descuentos suscribiéndote aquí.<\/p>"
             }
           }
@@ -314,6 +319,7 @@
               "title": "Grid",
               "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
               "color": "#ffffff",
+              "block_link": "",
               "button_text": "",
               "button_style": "primary",
               "show_overlay": false,
@@ -328,6 +334,7 @@
               "title": "Grid",
               "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
               "color": "#ffffff",
+              "block_link": "",
               "button_text": "",
               "button_style": "primary",
               "show_overlay": false,
@@ -342,6 +349,7 @@
               "title": "Grid",
               "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
               "color": "#ffffff",
+              "block_link": "",
               "button_text": "",
               "button_style": "primary",
               "show_overlay": false,
@@ -356,6 +364,7 @@
               "title": "Grid",
               "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
               "color": "#ffffff",
+              "block_link": "",
               "button_text": "",
               "button_style": "primary",
               "show_overlay": false,
@@ -435,12 +444,11 @@
           "d6f2966e-cbe1-4cff-b5a2-95ffba9a5216": {
             "type": "title_card",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Floortech_angost.jpg",
               "horizontal_size": "3",
               "vertical_size": "2",
               "text_alignment": "center-center",
               "pre_heading": "FloorTech",
-              "heading": "Nueva Colección",
+              "heading": "Nouvelle collection",
               "text_color": "#ffffff",
               "cta_label": "Ver más",
               "overlay_color": "#fafafa",
@@ -452,7 +460,7 @@
           "d6f2966e-cbe1-4cff-b5a2-95ffba9a5216"
         ],
         "settings": {
-          "title": "Nueva Colección",
+          "title": "Nouvelle collection",
           "layout": "grid",
           "collection": "floortech-8mm-aleman-ac4-c32",
           "product_count": 4,
@@ -498,7 +506,8 @@
       },
       "static-product-reviews": {
         "type": "static-product-reviews",
-        "settings": {}
+        "settings": {
+        }
       },
       "static-recently-viewed": {
         "type": "static-recently-viewed",
@@ -512,15 +521,16 @@
           "16141154082496c2cc-1": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/Slider1.jpg",
               "title": "Servicio de Instalación",
               "text": "Pisos Flotantes, Alfombras, Pastos Sintéticos, Pisos Vinílicos",
               "color": "#ffffff",
+              "link": "",
               "text_alignment": "center",
               "button_one_label": "Solicita visita técnica",
               "button_one_link": "shopify:\/\/collections\/con-instalacion",
               "button_one_style": "primary",
               "button_two_label": "",
+              "button_two_link": "",
               "button_two_style": "secondary",
               "show_overlay": true,
               "overlay_color": "#000000",
@@ -530,15 +540,16 @@
           "1eacb703-5ac2-4595-ab7a-7bddff6459b6": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/Slider2.jpg",
               "title": "Instalación de Pisos Flotantes",
               "text": "3 Años de Garantía de Mano de Obra - Somos expecialistas.",
               "color": "#ffffff",
+              "link": "",
               "text_alignment": "left",
               "button_one_label": "Ir al Servicio",
               "button_one_link": "shopify:\/\/products\/instalacion-de-piso-flotante",
               "button_one_style": "primary",
               "button_two_label": "",
+              "button_two_link": "",
               "button_two_style": "primary",
               "show_overlay": true,
               "overlay_color": "#000000",
@@ -548,14 +559,16 @@
           "b0008618-7d38-4567-919d-9ef811722a33": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/Slider4.jpg",
               "title": "Instalación de Pastos Sintéticos",
               "text": "Jardines, Interiores, Quinchos, Terrazas, donde quieras!!",
               "color": "#ffffff",
+              "link": "",
               "text_alignment": "left",
               "button_one_label": "Aquí más detalles",
+              "button_one_link": "",
               "button_one_style": "primary",
               "button_two_label": "",
+              "button_two_link": "",
               "button_two_style": "secondary",
               "show_overlay": true,
               "overlay_color": "#000000",
@@ -565,15 +578,16 @@
           "16141154082496c2cc-0": {
             "type": "slide",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/Slider3.jpg",
               "title": "Instalación de Alfombras",
               "text": "De cualquier tipo y en cualquier superficie",
               "color": "#ffffff",
+              "link": "",
               "text_alignment": "center",
               "button_one_label": "Solicítalo aquí",
               "button_one_link": "shopify:\/\/products\/copia-de-instalacion-de-alfombras",
               "button_one_style": "primary",
               "button_two_label": "",
+              "button_two_link": "",
               "button_two_style": "secondary",
               "show_overlay": true,
               "overlay_color": "#000000",
@@ -604,7 +618,8 @@
             "settings": {
               "icon": "icon-award-trophy",
               "title": "",
-              "text": ""
+              "text": "",
+              "link": ""
             }
           },
           "1614115478e7f12953-2": {
@@ -612,7 +627,8 @@
             "settings": {
               "icon": "none",
               "title": "",
-              "text": ""
+              "text": "",
+              "link": ""
             }
           },
           "1614115478e7f12953-3": {
@@ -620,7 +636,8 @@
             "settings": {
               "icon": "none",
               "title": "",
-              "text": ""
+              "text": "",
+              "link": ""
             }
           },
           "1614115478e7f12953-1": {
@@ -628,7 +645,8 @@
             "settings": {
               "icon": "none",
               "title": "",
-              "text": ""
+              "text": "",
+              "link": ""
             }
           }
         },
@@ -709,7 +727,7 @@
           "04baedac-c5ee-4432-9738-78f248eb6b18"
         ],
         "settings": {
-          "title": "Testimonios",
+          "title": "Témoignages",
           "image_crop": "circle",
           "text_size": "large"
         }
@@ -773,6 +791,7 @@
           "textbox_title": "Visitar la tienda",
           "textbox_subheading": "<p>Make an image shoppable by adding hotspots that link to various products.<\/p>",
           "textbox_button_label": "Botón",
+          "textbox_button_link": "",
           "textbox_button_style": "primary",
           "textbox_text_alignment": "center",
           "textbox_text_position": "left"
@@ -833,21 +852,22 @@
           "0928677c-d079-45c9-a415-15c7c8a62d57"
         ],
         "settings": {
-          "title": "Categorías",
+          "title": "Catégories",
           "thumbnail_columns_desktop": 6,
           "thumbnail_columns_mobile": 3,
           "image-crop": "circle",
-          "cta_label": "Ver todo",
+          "cta_label": "Tout voir",
+          "cta_link": "",
           "cta_button_style": "secondary"
         }
       },
       "1614186808567e83f9": {
         "type": "dynamic-search",
         "settings": {
-          "title": "Buscar",
-          "text": "Introduzca la palabra clave del producto que busca aquí",
-          "placeholder": "¿Qué estás buscando?",
-          "filter_search_by": "disabled",
+          "title": "Chercher",
+          "text": "Entrez ici le mot-clé du produit que vous recherchez",
+          "placeholder": "Que cherches-tu?",
+          "filter_search_by": "tag",
           "enable_live_search": true,
           "enable_live_search_images": false,
           "enable_live_search_articles_pages": false,
@@ -869,6 +889,7 @@
               "title": "Grid",
               "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
               "color": "#ffffff",
+              "block_link": "",
               "button_text": "",
               "button_style": "secondary",
               "show_overlay": false,
@@ -883,6 +904,7 @@
               "title": "Grid",
               "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
               "color": "#ffffff",
+              "block_link": "",
               "button_text": "",
               "button_style": "primary",
               "show_overlay": false,
@@ -940,6 +962,7 @@
               "title": "Grid",
               "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
               "color": "#1e1e1e",
+              "block_link": "",
               "button_text": "",
               "button_style": "primary",
               "show_overlay": false,
@@ -988,15 +1011,18 @@
       },
       "page": {
         "type": "page",
-        "settings": {}
+        "settings": {
+        }
       },
       "login": {
         "type": "login",
-        "settings": {}
+        "settings": {
+        }
       },
       "page-contact": {
         "type": "page-contact",
-        "settings": {}
+        "settings": {
+        }
       },
       "static-utility-bar": {
         "type": "static-utility-bar",
@@ -1252,23 +1278,28 @@
           "blocks": {
             "1493171899575": {
               "type": "social_accounts",
-              "settings": {}
+              "settings": {
+              }
             },
             "static-footer-0": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498182586280": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498182572847": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "static-footer-1": {
               "type": "newsletter",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1349,15 +1380,18 @@
           "blocks": {
             "1498186879532": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498186836236": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1572651808624": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1442,7 +1476,8 @@
         },
         "static-product-reviews": {
           "type": "static-product-reviews",
-          "settings": {}
+          "settings": {
+          }
         },
         "static-recently-viewed": {
           "type": "static-recently-viewed",
@@ -1522,19 +1557,23 @@
           "blocks": {
             "1614115478e7f12953-0": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614115478e7f12953-2": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614115478e7f12953-3": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614115478e7f12953-1": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1558,27 +1597,33 @@
           "blocks": {
             "1614115890cbfc29cf-2": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614115890cbfc29cf-1": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614115890cbfc29cf-0": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "3a3b329f-77d0-4320-9c5f-7eee8b6d5c1c": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "4c1dd98f-4606-4d19-ae97-d1ef82b03040": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "04baedac-c5ee-4432-9738-78f248eb6b18": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1652,27 +1697,33 @@
           "blocks": {
             "1614116286c7fddaa4-1": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614116286c7fddaa4-3": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614116286c7fddaa4-4": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "357237e1-4187-424c-9610-760379b04576": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "54868108-2754-49a9-ae4b-8fa4678c2b11": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "0928677c-d079-45c9-a415-15c7c8a62d57": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -1814,15 +1865,18 @@
         },
         "page": {
           "type": "page",
-          "settings": {}
+          "settings": {
+          }
         },
         "login": {
           "type": "login",
-          "settings": {}
+          "settings": {
+          }
         },
         "page-contact": {
           "type": "page-contact",
-          "settings": {}
+          "settings": {
+          }
         }
       },
       "content_for_index": [
@@ -1943,7 +1997,8 @@
             },
             "1572476394007": {
               "type": "multi_column_menu",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2025,19 +2080,23 @@
           "blocks": {
             "static-footer-0": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498182586280": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498182572847": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1493171899575": {
               "type": "social_accounts",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2106,15 +2165,18 @@
           "blocks": {
             "1498186879532": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498186836236": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1572651808624": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2169,15 +2231,18 @@
           "blocks": {
             "1493166188493-0": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1493166188493-1": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1493166188493-2": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2185,7 +2250,8 @@
             "1493166188493-1",
             "1493166188493-2"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "static-product": {
           "type": "static-product",
@@ -2221,7 +2287,8 @@
         },
         "static-product-reviews": {
           "type": "static-product-reviews",
-          "settings": {}
+          "settings": {
+          }
         },
         "static-recently-viewed": {
           "type": "static-recently-viewed",
@@ -2270,19 +2337,23 @@
           "blocks": {
             "16141174150e86eb4e-0": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "eb18f7d8-2668-4114-8393-e16d36924bb8": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "16141174150e86eb4e-2": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "16141174150e86eb4e-1": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2398,19 +2469,23 @@
           "blocks": {
             "1614200506a43fc141-0": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614200506a43fc141-1": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614200506a43fc141-2": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614200506a43fc141-3": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2434,19 +2509,23 @@
           "blocks": {
             "161411770226fca04c-0": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "161411770226fca04c-1": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "161411770226fca04c-2": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "161411770226fca04c-4": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2466,23 +2545,28 @@
           "blocks": {
             "161420097465356c6c-0": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             },
             "161420097465356c6c-1": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             },
             "161420097465356c6c-2": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             },
             "161420097465356c6c-3": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             },
             "f3f15a50-e222-48da-add3-2181f19a4fe2": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2492,7 +2576,8 @@
             "161420097465356c6c-3",
             "f3f15a50-e222-48da-add3-2181f19a4fe2"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "static-article": {
           "type": "static-article",
@@ -2629,7 +2714,8 @@
             },
             "1572476394007": {
               "type": "multi_column_menu",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2766,23 +2852,28 @@
           "blocks": {
             "1493171899575": {
               "type": "social_accounts",
-              "settings": {}
+              "settings": {
+              }
             },
             "static-footer-0": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498182586280": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498182572847": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "static-footer-1": {
               "type": "newsletter",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2803,15 +2894,18 @@
           "blocks": {
             "1498186879532": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1498186836236": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             },
             "1572651808624": {
               "type": "menu",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -2971,7 +3065,8 @@
         },
         "static-product-reviews": {
           "type": "static-product-reviews",
-          "settings": {}
+          "settings": {
+          }
         },
         "static-recently-viewed": {
           "type": "static-recently-viewed",
@@ -2984,19 +3079,23 @@
           "blocks": {
             "16148873141aeef74c-0": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "16148873141aeef74c-1": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "16148873141aeef74c-2": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             },
             "b5dd1425-9d82-4afb-96d4-98a0c65f48d6": {
               "type": "highlight",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -3020,27 +3119,33 @@
           "blocks": {
             "16148876196818e98f-1": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "16148876196818e98f-0": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "c6bff024-c5ba-478c-9e72-2a037456daa9": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "16148876196818e98f-2": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "c1ec3c44-4680-4036-a8c1-7b081d9e42ca": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             },
             "16148876196818e98f-3": {
               "type": "collection",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -3062,23 +3167,28 @@
           "blocks": {
             "1614888648117eaaca-0": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614888648117eaaca-2": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "e16e80d1-1eca-47e7-b874-a5c192897f2c": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614888648117eaaca-1": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             },
             "ca53594b-553b-49f8-b7aa-e6eab8ebfb12": {
               "type": "testimonial",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
@@ -3151,19 +3261,23 @@
           "blocks": {
             "1614958013d7fa3cc2-1": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614958013d7fa3cc2-0": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614958013d7fa3cc2-3": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             },
             "1614958013d7fa3cc2-2": {
               "type": "logo",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
