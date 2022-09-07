@@ -40,10 +40,10 @@
     "product_show_vendor": true,
     "product_show_sku": false,
     "product_option_style": "radio",
-    "product_sales_badge": true,
+    "product_sales_badge": false,
     "product_sales_badge_style": "money",
     "product_social_sharing": true,
-    "product_ratings_reviews": true,
+    "product_ratings_reviews": false,
     "product_ratings_star_display": "all",
     "product_grid_show_second_image": false,
     "product_grid_emphasize_price": true,
@@ -58,7 +58,7 @@
     "quickshop_gallery_hover_zoom": "replace",
     "swatches_enable": false,
     "swatches_swatch_trigger": "Color",
-    "swatches_shape": "square",
+    "swatches_shape": "circle",
     "swatches_product_card_size": 32,
     "swatches_product_page_size": 64,
     "swatches_option_style": "variant_image",
@@ -159,11 +159,11 @@
       "1520634789686": {
         "type": "dynamic-featured-product",
         "settings": {
-          "product": "instalacion-de-pasto-sintetico",
+          "product": "ou-est-bernadette",
           "sold_out_options": "selectable",
-          "select_first_available_variant": false,
-          "show_dcb": false,
-          "product_cart_redirect": false,
+          "select_first_available_variant": true,
+          "show_dcb": true,
+          "product_cart_redirect": true,
           "gallery_aspect_ratio": "natural",
           "gallery_image_crop": false,
           "gallery_thumbnail_position": "left",
@@ -445,13 +445,14 @@
           "d6f2966e-cbe1-4cff-b5a2-95ffba9a5216": {
             "type": "title_card",
             "settings": {
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
               "horizontal_size": "3",
               "vertical_size": "2",
               "text_alignment": "center-center",
-              "pre_heading": "FloorTech",
+              "pre_heading": "Histoires du soir",
               "heading": "Nouvelle collection",
               "text_color": "#ffffff",
-              "cta_label": "Ver más",
+              "cta_label": "Venez découvrir",
               "overlay_color": "#fafafa",
               "overlay_opacity": 3
             }
@@ -463,7 +464,7 @@
         "settings": {
           "title": "Nouvelle collection",
           "layout": "grid",
-          "collection": "floortech-8mm-aleman-ac4-c32",
+          "collection": "livres-du-soir-pour-enfants",
           "product_count": 4,
           "cta_label": "",
           "cta_button_style": "primary"
@@ -812,42 +813,42 @@
           "1614116286c7fddaa4-1": {
             "type": "collection",
             "settings": {
-              "collection": "alfombras",
+              "collection": "livres-du-soir-pour-enfants",
               "title": ""
             }
           },
           "1614116286c7fddaa4-3": {
             "type": "collection",
             "settings": {
-              "collection": "pisos-flotantes",
+              "collection": "livres-du-soir-pour-enfants",
               "title": ""
             }
           },
           "1614116286c7fddaa4-4": {
             "type": "collection",
             "settings": {
-              "collection": "pasto-sintetico",
+              "collection": "livres-du-soir-pour-enfants",
               "title": ""
             }
           },
           "357237e1-4187-424c-9610-760379b04576": {
             "type": "collection",
             "settings": {
-              "collection": "pisos-vinilicos",
+              "collection": "livres-du-soir-pour-enfants",
               "title": ""
             }
           },
           "54868108-2754-49a9-ae4b-8fa4678c2b11": {
             "type": "collection",
             "settings": {
-              "collection": "con-instalacion",
+              "collection": "livres-du-soir-pour-enfants",
               "title": ""
             }
           },
           "0928677c-d079-45c9-a415-15c7c8a62d57": {
             "type": "collection",
             "settings": {
-              "collection": "insumos",
+              "collection": "livres-du-soir-pour-enfants",
               "title": ""
             }
           }
