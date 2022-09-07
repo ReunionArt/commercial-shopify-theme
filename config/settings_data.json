@@ -137,6 +137,7 @@
         "settings": {
           "sticky_header": true,
           "full_width_header": true,
+          "logo": "shopify:\/\/shop_images\/lesailesdelocean.jpg",
           "logo_height": 63,
           "logo_width": 150,
           "filter_search_by": "product_type",
@@ -490,7 +491,7 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "Envío a domicilio en Viña del mar, Valparaíso, Quilpué, Villa Alemana, Santiago (comunas dentro del Américo Vespucio)",
+          "announcement_text": "Les Ailes de l'Océan Edition est une maison d'édition péi et met en avant la littérature réunionnaise",
           "announcement_text_mobile": "Envío a domicilio - ver comunas",
           "announcement_link": "shopify:\/\/pages\/envio-gratis-cobertura",
           "announcement_color": "#000000",
